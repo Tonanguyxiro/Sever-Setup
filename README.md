@@ -67,6 +67,12 @@ git remote -v
 git remote set-url origin https://oauth2:<Your-Fine-Grained-Access-Key>@github.com/<Your-Username>/<Your-Repository>.git
 ```
 
+### 使用 MiniConda 管理 Python 环境
+
+
+### 使用 uv 管理 Python 环境
+
+
 ## 高级配置
 
 
