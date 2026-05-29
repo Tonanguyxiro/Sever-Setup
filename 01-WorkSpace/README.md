@@ -23,5 +23,15 @@
   </tbody>
 </table>
 
-## Scripts
-You can run `00-setup.sh` to initialize the basic workspace configuration.
+## Quick Start
+
+
+## Terminal
+
+
+## Coding Environment
+
+
+## Network
+
+> If the server is in a restricted network environment, you may need to set up proxy tools and manage proxy profiles to access external resources.

@@ -13,8 +13,10 @@ A html table for overview and hyperlinks to the subtopics in this directory.
 
 ## XXX
 
+Some introduction
+
 if the content is blank or too simple, leave simple instructions here.
 
-
-
 ```
+
+if Chinese version exists, please refer to it first and update English version accordingly.
