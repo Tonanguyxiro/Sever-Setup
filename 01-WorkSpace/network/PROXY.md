@@ -32,3 +32,18 @@ conda config --set proxy_servers.https https://127.0.0.1:7891
 
 ## 在 github ssh 上配置反向代理
 
+## 高级配置
+
+## 无网设置（通用）
+
+```shell
+# 使用带代理的 ssh 链接服务器，并转发端口到本地
+ssh -R <server-ip>:20121:127.0.0.1:20122 <user-name>@<server-ip>
+
+# 在服务器端设置代理
+export https_proxy=http://127.0.0.1:20121 http_proxy=http://127.0.0.1:20121 all_proxy=socks5://127.0.0.1:20121
+```
+
+```config
+Host 
+```
