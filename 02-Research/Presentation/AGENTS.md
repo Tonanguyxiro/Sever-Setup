@@ -16,3 +16,13 @@ This is a Latex Beamer presentation project for research presentations.
 - `main.bib`: Bibliography file for references.
 - `.latexmkrc`: Configuration file for latexmk.
 - `*.code-workspace`: VSCode workspace configuration files.
+
+## Initialize the Project
+
+### Step 1: Configure Latex Environment and Workspace
+
+Set `*.code-workspace` and `.latexmkrc`: Set default build command and output directory.
+
+### Step 2: Re-Organize the Project to Required Structure
+
+### Step 3: Compile the Presentation
