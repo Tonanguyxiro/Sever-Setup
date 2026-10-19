@@ -2,27 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../.agents"
-		},
-		{
-			"path": "../.claude"
-		},
-		{
-			"path": "../.codex"
-		},
-		{
-			"path": "../.copilot"
-		},
-		{
-			"path": "../.cursor"
-		},
-		{
-			"path": "../Papers/HKUSTGZ-Slide-Template"
-		},
-		{
-			"path": "../Skills/academic-presentation"
 		}
 	],
 	"settings": {}
