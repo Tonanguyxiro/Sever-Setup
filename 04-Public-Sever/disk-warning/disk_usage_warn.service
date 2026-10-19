@@ -1,0 +1,6 @@
+[Unit]
+Description=Generate disk usage warning login report
+
+[Service]
+Type=oneshot
+ExecStart=/bin/sh /etc/profile.d/disk_usage_warn.sh --update-log

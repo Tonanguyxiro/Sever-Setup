@@ -1,0 +1,11 @@
+[Unit]
+Description=Refresh disk usage warning login report every 12 hours
+
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=12h
+Persistent=true
+Unit=disk_usage_warn.service
+
+[Install]
+WantedBy=timers.target
